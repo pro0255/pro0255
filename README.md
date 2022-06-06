@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I like programming in Python 🐍 and JavaScript (TypeScript). ML/AI enthusiasts. Unstructured textual data are fun. I'd like to try to help ML save some lives.
+- 🤔 &nbsp; I like programming in Python 🐍 and JavaScript (TypeScript). ML/AI enthusiasts. Unstructured textual data are fun. I would like to try to help with machine learning to save some lives.
 - 🎓 &nbsp; Studied Computer Science (Data Analysis) on VSB - Technical University of Ostrava - VSB-TUO.
 - 💼 &nbsp; Looking for a job.
 - 🌱 &nbsp; Open to learn something new.
