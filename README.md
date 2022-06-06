@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat!</i>
 
   <p align="center">
     <a href="https://twitter.com/VojtechProkop" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
