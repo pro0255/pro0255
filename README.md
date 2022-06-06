@@ -1,12 +1,11 @@
-<h2> Hey there! I'm Vojta.</h2>
+<h2> Hey there! I'm Vojta Prokop.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; I like programming in Python 🐍 and JavaScript (TypeScript). ML/AI enthusiasts. Unstructured textual data are fun. I'd like to try to help ML save some lives.
+- 🎓 &nbsp; Studied Computer Science (Data Analysis) on VSB - Technical University of Ostrava - VSB-TUO.
+- 💼 &nbsp; Looking for a job.
+- 🌱 &nbsp; Open to learn something new.
 
 <br/>
 
