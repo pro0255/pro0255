@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I like programming in Python 🐍 and JavaScript (TypeScript). ML/AI enthusiast. Unstructured textual data are fun. I would like to try to help with machine learning to save some lives.
 - 🎓 &nbsp; Studied Computer Science (Data Analysis) on VSB - Technical University of Ostrava - VSB-TUO.
-- 💼 &nbsp; Looking for a job.
+- <del>💼 &nbsp; Looking for a job.</del>
 - 🌱 &nbsp; Open to learn something new.
 
 <br/>
