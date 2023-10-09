@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; High school with medical focus.
-- 🤔 &nbsp; I like programming in Python 🐍 and JavaScript (TypeScript). ML/AI enthusiast. Unstructured textual data are fun. I would like to try to help with machine learning to save some lives.
+- 🎓 &nbsp; Studied high school with medical focus.
+- 🤔 &nbsp; I like programming in Python 🐍 and JavaScript (TypeScript). ML/AI enthusiast. Unstructured textual data are fun.
 - 🎓 &nbsp; Studied Computer Science (Data Analysis) on VSB - Technical University of Ostrava - VSB-TUO (master).
 - 🌱 &nbsp; Open to learn something new.
 
